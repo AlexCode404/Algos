@@ -1,0 +1,27 @@
+{
+    "algorithms": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Quick Sort",
+      "Heap Sort",
+      "Radix Sort",
+      "Red Black Sort",
+      "Tree Sort"
+    ],
+    "array_sizes": [
+      100,
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      15000,
+      20000
+    ],
+    "data_types": {
+      "good": "sorted",
+      "average": "random",
+      "bad": "reverse_sorted"
+    }
+  }
