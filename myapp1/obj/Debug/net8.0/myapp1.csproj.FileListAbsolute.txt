@@ -1,0 +1,14 @@
+D:\RSA\myapp1\bin\Debug\net8.0\myapp1.exe
+D:\RSA\myapp1\bin\Debug\net8.0\myapp1.deps.json
+D:\RSA\myapp1\bin\Debug\net8.0\myapp1.runtimeconfig.json
+D:\RSA\myapp1\bin\Debug\net8.0\myapp1.dll
+D:\RSA\myapp1\bin\Debug\net8.0\myapp1.pdb
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.AssemblyInfoInputs.cache
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.AssemblyInfo.cs
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.csproj.CoreCompileInputs.cache
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.dll
+D:\RSA\myapp1\obj\Debug\net8.0\refint\myapp1.dll
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.pdb
+D:\RSA\myapp1\obj\Debug\net8.0\myapp1.genruntimeconfig.cache
+D:\RSA\myapp1\obj\Debug\net8.0\ref\myapp1.dll

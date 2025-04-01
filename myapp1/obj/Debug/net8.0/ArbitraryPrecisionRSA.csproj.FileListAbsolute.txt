@@ -1,0 +1,14 @@
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.AssemblyInfoInputs.cache
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.AssemblyInfo.cs
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.csproj.CoreCompileInputs.cache
+D:\RSA\ArbitraryPrecisionRSA\bin\Debug\net8.0\ArbitraryPrecisionRSA.exe
+D:\RSA\ArbitraryPrecisionRSA\bin\Debug\net8.0\ArbitraryPrecisionRSA.deps.json
+D:\RSA\ArbitraryPrecisionRSA\bin\Debug\net8.0\ArbitraryPrecisionRSA.runtimeconfig.json
+D:\RSA\ArbitraryPrecisionRSA\bin\Debug\net8.0\ArbitraryPrecisionRSA.dll
+D:\RSA\ArbitraryPrecisionRSA\bin\Debug\net8.0\ArbitraryPrecisionRSA.pdb
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.dll
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\refint\ArbitraryPrecisionRSA.dll
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.pdb
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ArbitraryPrecisionRSA.genruntimeconfig.cache
+D:\RSA\ArbitraryPrecisionRSA\obj\Debug\net8.0\ref\ArbitraryPrecisionRSA.dll
